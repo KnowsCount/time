@@ -1,7 +1,7 @@
 <template>
   <div class="header">
     <p class="logo">What Time is it NOT?</p>
-    <button v-on:click="alert()">Pay me</button>
+    <button v-on:click="pay()">Pay me</button>
   </div>
 </template>
 
@@ -9,7 +9,7 @@
 export default {
   // components: {},
   methods: {
-    alert() {
+    pay() {
       alert(
         "你可以加我微信 ( 微信号`knowscount` ) 付款，没有二维码主要是因为截图自己的收款太烦了"
       );

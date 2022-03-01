@@ -36,6 +36,9 @@ li {
   list-style: none;
   padding: 5px 5px;
 }
+code {
+  background-color: #e5e5f7;
+}
 .center {
   padding-left: 38.5%;
 }
