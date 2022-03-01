@@ -11,7 +11,7 @@ export default {
   methods: {
     alert() {
       alert(
-        "你可以加我微信 `knowscount` 付款，没有二维码主要是因为截图自己的收款太烦了"
+        "你可以加我微信 ( 微信号`knowscount` ) 付款，没有二维码主要是因为截图自己的收款太烦了"
       );
     },
   },

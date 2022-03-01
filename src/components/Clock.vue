@@ -13,7 +13,7 @@
 export default {
   data() {
     return {
-      hour: this.genRandomInt(0, 24),
+      hour: this.genRandomInt(0, 23),
       min: this.genRandomInt(0, 60),
       date: this.getDate(),
     };
