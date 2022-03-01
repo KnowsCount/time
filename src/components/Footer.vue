@@ -40,6 +40,9 @@ code {
   background-color: #e5e5f7;
 }
 .center {
-  padding-left: 38.5%;
+  /* padding-left: 38.5%; */
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 </style>
