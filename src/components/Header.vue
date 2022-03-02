@@ -37,6 +37,22 @@ export default {
   background-color: #fff;
 }
 
+@media (min-width: 480px) and (max-width: 767px) {
+  .logo {
+    font-weight: 500;
+    font-size: 1.5rem;
+    background-color: #fff;
+  }
+}
+
+@media (max-width: 479px) {
+  .logo {
+    font-weight: 500;
+    font-size: 1.5rem;
+    background-color: #fff;
+  }
+}
+
 button {
   border: none;
   background-color: #fff;
