@@ -11,7 +11,8 @@ export default {
   methods: {
     pay() {
       alert(
-        "你可以加我微信 ( 微信号`knowscount` ) 付款，没有二维码主要是因为截图自己的收款太烦了"
+        // "你可以加我微信 ( 微信号`knowscount` ) 付款，没有二维码主要是因为截图自己的收款太烦了"
+        "you can pay me via wechat ( id `knowscount` ). i'm too lazy to upload the qrcode. i mean yea the website took me about an hour to make but hey uploading qrcode would take me like some ten more seconds and i dont want to waste the time so"
       );
     },
   },

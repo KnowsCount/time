@@ -433,7 +433,7 @@
 
 <script>
 export default {
-  name: "feedback-reactions",
+  name: "FeedbackReactions",
   methods: {
     changeEmoji() {
       document.querySelectorAll(".feedback li").forEach((entry) =>
