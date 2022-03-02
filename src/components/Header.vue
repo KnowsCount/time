@@ -33,7 +33,7 @@ export default {
 }
 
 .logo {
-  font-weight: 1000;
+  font-weight: 900;
   font-size: 2em;
   background-color: #fff;
 }
